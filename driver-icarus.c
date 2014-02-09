@@ -29,6 +29,8 @@
  *      nonce range is completely calculated.
  */
 
+// this file is HACKED - not the original file
+
 #include "config.h"
 #include "miner.h"
 
